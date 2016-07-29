@@ -21,7 +21,7 @@ function go() {
     } else if (choice1 === "Scissors"){
         // console.log(choice1 + "wins!");
         return choice1 + "wins!";
-      } 
+      }
     else if (choice1 === "Paper"){
         if (choice2 === "Scissors"){
           return choice2 + "is the winner!";
@@ -39,11 +39,17 @@ function go() {
         return choice1 + "wins!";
       }
     }
-    } 
+    }
     }
     start;
   }
-  
+<<<<<<< 49582e64393c8a5394d329d9d61442b5c0694323
+
 }
 
 
+=======
+  }
+  }
+}
+>>>>>>> add some html and style
