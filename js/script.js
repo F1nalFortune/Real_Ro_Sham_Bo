@@ -2,13 +2,10 @@
 function compare(choice1, choice2) {
   if (choice1 === "Rock") {
     if (choice2 === "Paper"){
-      console.log(choice2 + "is the winner!");
       return choice2 + "is the winner!";
     } else if (choice1 === choice2){
-      console.log("There is a draw!");
       return "There is a draw!";
     } else if (choice2 === "Scissors"){
-      console.log(choice1 + "wins!");
       return choice1 + "wins!";
     } 
   } else if (choice1 === "Paper") {
