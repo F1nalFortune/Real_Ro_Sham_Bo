@@ -43,13 +43,6 @@ function go() {
     }
     start;
   }
-<<<<<<< 49582e64393c8a5394d329d9d61442b5c0694323
-
-}
-
-
-=======
   }
   }
 }
->>>>>>> add some html and style
